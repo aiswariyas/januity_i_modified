@@ -1,0 +1,653 @@
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.csprojAssemblyReference.cache
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.JanuityKiosk.resources
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.Properties.Resources.resources
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.WeightCalibration.resources
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.csproj.GenerateResource.cache
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.csproj.CoreCompileInputs.cache
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.exe.config
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\JanuityUI.exe.config
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\JanuityUI.exe
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\JanuityUI.pdb
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Dahomey.Cbor.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\log4net.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Ini.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\MPPGv4.Dtos.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\MPPGv4.ServiceFactory.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\MPPGv4.UIFactory.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\MTCMSNET.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Newtonsoft.Json.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Serilog.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\SourceAFIS.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.ClientEngine.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.Common.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.Facility.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.SocketBase.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.SocketEngine.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.WebSocket.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\SuperWebSocket.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\System.Buffers.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\System.Collections.Immutable.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\System.IO.Pipelines.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\System.Memory.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\System.Numerics.Vectors.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\System.Reactive.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\System.Threading.Channels.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\System.ValueTuple.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Websocket.Client.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\WebSocket4Net.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\MPPGv4.Dtos.pdb
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\MPPGv4.ServiceFactory.pdb
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\MPPGv4.UIFactory.pdb
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\log4net.xml
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.xml
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Ini.xml
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Newtonsoft.Json.xml
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Serilog.xml
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\SourceAFIS.xml
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.Common.pdb
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.Facility.xml
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.SocketBase.pdb
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.SocketEngine.pdb
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\SuperWebSocket.pdb
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\SuperWebSocket.xml
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\System.Buffers.xml
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\System.Collections.Immutable.xml
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\System.IO.Pipelines.xml
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\System.Memory.xml
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\System.Numerics.Vectors.xml
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\System.Reactive.xml
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\System.Threading.Channels.xml
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\System.ValueTuple.xml
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Websocket.Client.xml
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.csproj.CopyComplete
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.exe
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.pdb
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\System.Text.Encodings.Web.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\System.Text.Json.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\System.Text.Encodings.Web.xml
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\JanuityUI\bin\Debug\System.Text.Json.xml
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\JanuityUI.exe.config
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\JanuityUI.exe
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\JanuityUI.pdb
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Dahomey.Cbor.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\log4net.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Ini.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Logging.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Options.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Primitives.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\MPPGv4.Dtos.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\MPPGv4.ServiceFactory.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\MPPGv4.UIFactory.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Newtonsoft.Json.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Serilog.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\SourceAFIS.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.ClientEngine.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.Common.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.Facility.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.SocketBase.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.SocketEngine.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.WebSocket.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\SuperWebSocket.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\System.Buffers.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\System.Collections.Immutable.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\System.IO.Pipelines.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\System.Memory.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\System.Numerics.Vectors.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\System.Reactive.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\System.Text.Encodings.Web.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\System.Text.Json.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\System.Threading.Channels.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\System.ValueTuple.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Websocket.Client.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\WebSocket4Net.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\MPPGv4.Dtos.pdb
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\MPPGv4.ServiceFactory.pdb
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\MPPGv4.UIFactory.pdb
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\log4net.xml
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.xml
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.xml
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Ini.xml
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Logging.xml
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Options.xml
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Primitives.xml
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Newtonsoft.Json.xml
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Serilog.xml
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\SourceAFIS.xml
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.Common.pdb
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.Facility.xml
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.SocketBase.pdb
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.SocketEngine.pdb
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\SuperWebSocket.pdb
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\SuperWebSocket.xml
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\System.Buffers.xml
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\System.Collections.Immutable.xml
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\System.IO.Pipelines.xml
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\System.Memory.xml
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\System.Numerics.Vectors.xml
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\System.Reactive.xml
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\System.Text.Encodings.Web.xml
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\System.Text.Json.xml
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\System.Threading.Channels.xml
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\System.ValueTuple.xml
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\bin\Debug\Websocket.Client.xml
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.csprojAssemblyReference.cache
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.exe.config
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.JanuityKiosk.resources
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.Properties.Resources.resources
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.WeightCalibration.resources
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.csproj.GenerateResource.cache
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.csproj.CoreCompileInputs.cache
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.csproj.CopyComplete
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.exe
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.pdb
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\JanuityUI.exe.config
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\JanuityUI.exe
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\JanuityUI.pdb
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Dahomey.Cbor.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\log4net.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\MPPGv4.Dtos.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\MPPGv4.ServiceFactory.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\MPPGv4.UIFactory.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Serilog.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SourceAFIS.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.ClientEngine.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.Common.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.Facility.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.SocketBase.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.SocketEngine.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.WebSocket.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperWebSocket.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Buffers.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Memory.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Reactive.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Text.Json.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Threading.Channels.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.ValueTuple.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Websocket.Client.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\WebSocket4Net.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\MPPGv4.Dtos.pdb
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\MPPGv4.ServiceFactory.pdb
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\MPPGv4.UIFactory.pdb
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\log4net.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Ini.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Serilog.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SourceAFIS.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.Common.pdb
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.Facility.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.SocketBase.pdb
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.SocketEngine.pdb
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperWebSocket.pdb
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperWebSocket.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Buffers.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Memory.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Reactive.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Text.Json.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Threading.Channels.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.ValueTuple.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Websocket.Client.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.csproj.AssemblyReference.cache
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.exe.config
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.JanuityKiosk.resources
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.Properties.Resources.resources
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.WeightCalibration.resources
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.csproj.GenerateResource.cache
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.csproj.CoreCompileInputs.cache
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.csproj.CopyComplete
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.exe
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.pdb
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\JanuityUI.exe.config
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\JanuityUI.exe
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\JanuityUI.pdb
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Dahomey.Cbor.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\log4net.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\MPPGv4.Dtos.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\MPPGv4.ServiceFactory.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\MPPGv4.UIFactory.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Serilog.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SourceAFIS.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.ClientEngine.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.Common.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.Facility.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.SocketBase.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.SocketEngine.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.WebSocket.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperWebSocket.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Buffers.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Memory.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Reactive.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Text.Json.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Threading.Channels.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.ValueTuple.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Websocket.Client.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\WebSocket4Net.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\MPPGv4.Dtos.pdb
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\MPPGv4.ServiceFactory.pdb
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\MPPGv4.UIFactory.pdb
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\log4net.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Ini.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Serilog.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SourceAFIS.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.Common.pdb
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.Facility.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.SocketBase.pdb
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.SocketEngine.pdb
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperWebSocket.pdb
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperWebSocket.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Buffers.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Memory.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Reactive.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Text.Json.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Threading.Channels.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.ValueTuple.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Websocket.Client.xml
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.csproj.AssemblyReference.cache
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.exe.config
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.JanuityKiosk.resources
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.Properties.Resources.resources
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.WeightCalibration.resources
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.csproj.GenerateResource.cache
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.csproj.CoreCompileInputs.cache
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.csproj.CopyComplete
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.exe
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3 (2)\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.pdb
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\JanuityUI.exe.config
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\JanuityUI.exe
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\JanuityUI.pdb
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Dahomey.Cbor.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\log4net.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Ini.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Logging.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Options.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Primitives.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\MPPGv4.Dtos.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\MPPGv4.ServiceFactory.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\MPPGv4.UIFactory.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Serilog.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SourceAFIS.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.ClientEngine.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.Common.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.Facility.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.SocketBase.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.SocketEngine.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.WebSocket.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperWebSocket.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Buffers.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Collections.Immutable.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.IO.Pipelines.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Memory.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Reactive.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Text.Encodings.Web.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Text.Json.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Threading.Channels.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.ValueTuple.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Websocket.Client.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\WebSocket4Net.dll
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\MPPGv4.Dtos.pdb
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\MPPGv4.ServiceFactory.pdb
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\MPPGv4.UIFactory.pdb
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\log4net.xml
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.xml
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.xml
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Ini.xml
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Logging.xml
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Options.xml
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Primitives.xml
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Serilog.xml
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SourceAFIS.xml
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.Common.pdb
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.Facility.xml
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.SocketBase.pdb
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.SocketEngine.pdb
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperWebSocket.pdb
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperWebSocket.xml
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Buffers.xml
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Collections.Immutable.xml
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.IO.Pipelines.xml
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Memory.xml
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Reactive.xml
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Text.Encodings.Web.xml
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Text.Json.xml
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Threading.Channels.xml
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.ValueTuple.xml
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Websocket.Client.xml
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.csproj.AssemblyReference.cache
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.exe.config
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.JanuityKiosk.resources
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.Properties.Resources.resources
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.WeightCalibration.resources
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.csproj.GenerateResource.cache
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.csproj.CoreCompileInputs.cache
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.csproj.CopyComplete
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.exe
+C:\Users\Srushty00\Documents\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.pdb
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\JanuityUI.exe.config
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\JanuityUI.exe
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\JanuityUI.pdb
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Dahomey.Cbor.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\log4net.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Binder.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Ini.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Json.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.DependencyInjection.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.FileProviders.Physical.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Logging.Configuration.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Logging.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Options.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Primitives.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\MPPGv4.Dtos.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\MPPGv4.ServiceFactory.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\MPPGv4.UIFactory.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Newtonsoft.Json.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Serilog.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SourceAFIS.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.ClientEngine.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.Common.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.Facility.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.SocketBase.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.SocketEngine.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.WebSocket.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperWebSocket.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Buffers.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Collections.Immutable.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.IO.Pipelines.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Memory.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Numerics.Vectors.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Reactive.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Text.Encodings.Web.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Text.Json.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Threading.Channels.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Threading.Tasks.Extensions.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.ValueTuple.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Websocket.Client.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\WebSocket4Net.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\MPPGv4.Dtos.pdb
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\MPPGv4.ServiceFactory.pdb
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\MPPGv4.UIFactory.pdb
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\log4net.xml
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.xml
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Abstractions.xml
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Binder.xml
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.CommandLine.xml
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.FileExtensions.xml
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Ini.xml
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Configuration.Json.xml
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.DependencyInjection.xml
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.FileProviders.Abstractions.xml
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.FileProviders.Physical.xml
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.FileSystemGlobbing.xml
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Logging.xml
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Logging.Abstractions.xml
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Logging.Configuration.xml
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Options.xml
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Options.ConfigurationExtensions.xml
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Microsoft.Extensions.Primitives.xml
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Newtonsoft.Json.xml
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Serilog.xml
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SourceAFIS.xml
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.Common.pdb
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.Facility.xml
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.SocketBase.pdb
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperSocket.SocketEngine.pdb
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperWebSocket.pdb
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\SuperWebSocket.xml
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Buffers.xml
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Collections.Immutable.xml
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.IO.Pipelines.xml
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Memory.xml
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Numerics.Vectors.xml
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Reactive.xml
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Text.Encodings.Web.xml
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Text.Json.xml
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Threading.Channels.xml
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.Threading.Tasks.Extensions.xml
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\System.ValueTuple.xml
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\bin\Debug\Websocket.Client.xml
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.csproj.AssemblyReference.cache
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.csproj.SuggestedBindingRedirects.cache
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.exe.config
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.JanuityKiosk.resources
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.Properties.Resources.resources
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.WeightCalibration.resources
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.csproj.GenerateResource.cache
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.csproj.CoreCompileInputs.cache
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.csproj.CopyComplete
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.exe
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\JanuityUI\obj\Debug\JanuityUI.pdb

@@ -1,0 +1,36 @@
+C:\Users\Ragul Murugan\source\repos\WindowsFormsApp2\MPPGv4.ServiceFactory\bin\Debug\netcoreapp3.1\MPPGv4.ServiceFactory.deps.json
+C:\Users\Ragul Murugan\source\repos\WindowsFormsApp2\MPPGv4.ServiceFactory\bin\Debug\netcoreapp3.1\MPPGv4.ServiceFactory.dll
+C:\Users\Ragul Murugan\source\repos\WindowsFormsApp2\MPPGv4.ServiceFactory\bin\Debug\netcoreapp3.1\MPPGv4.ServiceFactory.pdb
+C:\Users\Ragul Murugan\source\repos\WindowsFormsApp2\MPPGv4.ServiceFactory\bin\Debug\netcoreapp3.1\MPPGv4.Dtos.dll
+C:\Users\Ragul Murugan\source\repos\WindowsFormsApp2\MPPGv4.ServiceFactory\bin\Debug\netcoreapp3.1\MPPGv4.Dtos.pdb
+C:\Users\Ragul Murugan\source\repos\WindowsFormsApp2\MPPGv4.ServiceFactory\obj\Debug\netcoreapp3.1\MPPGv4.ServiceFactory.csprojAssemblyReference.cache
+C:\Users\Ragul Murugan\source\repos\WindowsFormsApp2\MPPGv4.ServiceFactory\obj\Debug\netcoreapp3.1\MPPGv4.ServiceFactory.AssemblyInfoInputs.cache
+C:\Users\Ragul Murugan\source\repos\WindowsFormsApp2\MPPGv4.ServiceFactory\obj\Debug\netcoreapp3.1\MPPGv4.ServiceFactory.AssemblyInfo.cs
+C:\Users\Ragul Murugan\source\repos\WindowsFormsApp2\MPPGv4.ServiceFactory\obj\Debug\netcoreapp3.1\MPPGv4.ServiceFactory.csproj.CoreCompileInputs.cache
+C:\Users\Ragul Murugan\source\repos\WindowsFormsApp2\MPPGv4.ServiceFactory\obj\Debug\netcoreapp3.1\MPPGv4.ServiceFactory.csproj.CopyComplete
+C:\Users\Ragul Murugan\source\repos\WindowsFormsApp2\MPPGv4.ServiceFactory\obj\Debug\netcoreapp3.1\MPPGv4.ServiceFactory.dll
+C:\Users\Ragul Murugan\source\repos\WindowsFormsApp2\MPPGv4.ServiceFactory\obj\Debug\netcoreapp3.1\MPPGv4.ServiceFactory.pdb
+C:\Users\Srushty00\Downloads\WindowsFormsApp2\WindowsFormsApp2\MPPGv4.ServiceFactory\bin\Debug\netcoreapp3.1\MPPGv4.ServiceFactory.deps.json
+C:\Users\Srushty00\Downloads\WindowsFormsApp2\WindowsFormsApp2\MPPGv4.ServiceFactory\bin\Debug\netcoreapp3.1\MPPGv4.ServiceFactory.dll
+C:\Users\Srushty00\Downloads\WindowsFormsApp2\WindowsFormsApp2\MPPGv4.ServiceFactory\bin\Debug\netcoreapp3.1\MPPGv4.ServiceFactory.pdb
+C:\Users\Srushty00\Downloads\WindowsFormsApp2\WindowsFormsApp2\MPPGv4.ServiceFactory\bin\Debug\netcoreapp3.1\MPPGv4.Dtos.dll
+C:\Users\Srushty00\Downloads\WindowsFormsApp2\WindowsFormsApp2\MPPGv4.ServiceFactory\bin\Debug\netcoreapp3.1\MPPGv4.Dtos.pdb
+C:\Users\Srushty00\Downloads\WindowsFormsApp2\WindowsFormsApp2\MPPGv4.ServiceFactory\obj\Debug\netcoreapp3.1\MPPGv4.ServiceFactory.csproj.AssemblyReference.cache
+C:\Users\Srushty00\Downloads\WindowsFormsApp2\WindowsFormsApp2\MPPGv4.ServiceFactory\obj\Debug\netcoreapp3.1\MPPGv4.ServiceFactory.AssemblyInfoInputs.cache
+C:\Users\Srushty00\Downloads\WindowsFormsApp2\WindowsFormsApp2\MPPGv4.ServiceFactory\obj\Debug\netcoreapp3.1\MPPGv4.ServiceFactory.AssemblyInfo.cs
+C:\Users\Srushty00\Downloads\WindowsFormsApp2\WindowsFormsApp2\MPPGv4.ServiceFactory\obj\Debug\netcoreapp3.1\MPPGv4.ServiceFactory.csproj.CoreCompileInputs.cache
+C:\Users\Srushty00\Downloads\WindowsFormsApp2\WindowsFormsApp2\MPPGv4.ServiceFactory\obj\Debug\netcoreapp3.1\MPPGv4.ServiceFactory.csproj.CopyComplete
+C:\Users\Srushty00\Downloads\WindowsFormsApp2\WindowsFormsApp2\MPPGv4.ServiceFactory\obj\Debug\netcoreapp3.1\MPPGv4.ServiceFactory.dll
+C:\Users\Srushty00\Downloads\WindowsFormsApp2\WindowsFormsApp2\MPPGv4.ServiceFactory\obj\Debug\netcoreapp3.1\MPPGv4.ServiceFactory.pdb
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\netcoreapp3.1\MPPGv4.ServiceFactory.deps.json
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\netcoreapp3.1\MPPGv4.ServiceFactory.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\netcoreapp3.1\MPPGv4.ServiceFactory.pdb
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\netcoreapp3.1\MPPGv4.Dtos.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\netcoreapp3.1\MPPGv4.Dtos.pdb
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\MPPGv4.ServiceFactory\obj\Debug\netcoreapp3.1\MPPGv4.ServiceFactory.csprojAssemblyReference.cache
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\MPPGv4.ServiceFactory\obj\Debug\netcoreapp3.1\MPPGv4.ServiceFactory.AssemblyInfoInputs.cache
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\MPPGv4.ServiceFactory\obj\Debug\netcoreapp3.1\MPPGv4.ServiceFactory.AssemblyInfo.cs
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\MPPGv4.ServiceFactory\obj\Debug\netcoreapp3.1\MPPGv4.ServiceFactory.csproj.CoreCompileInputs.cache
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\MPPGv4.ServiceFactory\obj\Debug\netcoreapp3.1\MPPGv4.ServiceFactory.csproj.CopyComplete
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\MPPGv4.ServiceFactory\obj\Debug\netcoreapp3.1\MPPGv4.ServiceFactory.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\MPPGv4.ServiceFactory\obj\Debug\netcoreapp3.1\MPPGv4.ServiceFactory.pdb

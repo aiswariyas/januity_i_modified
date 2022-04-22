@@ -1,0 +1,104 @@
+{
+  "format": 1,
+  "restore": {
+    "E:\\Januity\\Januity_I_Modified\\JanuityUIKioskV3\\JanuityUIV7.1\\MPPGv4.ServiceFactory\\MPPGv4.ServiceFactory.csproj": {}
+  },
+  "projects": {
+    "E:\\Januity\\Januity_I_Modified\\JanuityUIKioskV3\\JanuityUIV7.1\\MPPGv4.Dtos\\MPPGv4.Dtos.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Januity\\Januity_I_Modified\\JanuityUIKioskV3\\JanuityUIV7.1\\MPPGv4.Dtos\\MPPGv4.Dtos.csproj",
+        "projectName": "MPPGv4.Dtos",
+        "projectPath": "E:\\Januity\\Januity_I_Modified\\JanuityUIKioskV3\\JanuityUIV7.1\\MPPGv4.Dtos\\MPPGv4.Dtos.csproj",
+        "packagesPath": "C:\\Users\\Srushty00\\.nuget\\packages\\",
+        "outputPath": "E:\\Januity\\Januity_I_Modified\\JanuityUIKioskV3\\JanuityUIV7.1\\MPPGv4.Dtos\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Srushty00\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "E:\\Januity\\Januity_I_Modified\\JanuityUIKioskV3\\JanuityUIV7.1\\MPPGv4.ServiceFactory\\MPPGv4.ServiceFactory.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "E:\\Januity\\Januity_I_Modified\\JanuityUIKioskV3\\JanuityUIV7.1\\MPPGv4.ServiceFactory\\MPPGv4.ServiceFactory.csproj",
+        "projectName": "MPPGv4.ServiceFactory",
+        "projectPath": "E:\\Januity\\Januity_I_Modified\\JanuityUIKioskV3\\JanuityUIV7.1\\MPPGv4.ServiceFactory\\MPPGv4.ServiceFactory.csproj",
+        "packagesPath": "C:\\Users\\Srushty00\\.nuget\\packages\\",
+        "outputPath": "E:\\Januity\\Januity_I_Modified\\JanuityUIKioskV3\\JanuityUIV7.1\\MPPGv4.ServiceFactory\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Srushty00\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "net472"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net472": {
+            "targetAlias": "net472",
+            "projectReferences": {
+              "E:\\Januity\\Januity_I_Modified\\JanuityUIKioskV3\\JanuityUIV7.1\\MPPGv4.Dtos\\MPPGv4.Dtos.csproj": {
+                "projectPath": "E:\\Januity\\Januity_I_Modified\\JanuityUIKioskV3\\JanuityUIV7.1\\MPPGv4.Dtos\\MPPGv4.Dtos.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "net472": {
+          "targetAlias": "net472",
+          "dependencies": {
+            "Microsoft.Extensions.Configuration.Binder": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            }
+          },
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\6.0.202\\RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

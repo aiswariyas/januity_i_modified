@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29911.84
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "JanuityUI", "JanuityUI\JanuityUI.csproj", "{D6B0AB84-DEC8-4AFD-8590-15471D17F969}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "2.UIFactory", "2.UIFactory", "{33728E09-6B41-4CAE-840B-90C33F32AF2D}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "3.ServiceFactory", "3.ServiceFactory", "{F2B5F552-DEB4-44E9-AE76-1DACD3AFECFE}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "4.Dto", "4.Dto", "{2C30CB48-BAB7-44A3-9C38-337C26962D9E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MPPGv4.UIFactory", "MPPGv4.UIFactory\MPPGv4.UIFactory.csproj", "{667608D2-8557-4FCF-B420-B62B7E38C6EF}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MPPGv4.ServiceFactory", "MPPGv4.ServiceFactory\MPPGv4.ServiceFactory.csproj", "{4F587EF2-2796-4EF9-B1FE-AA9328B9EAF3}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "MPPGv4.Dtos", "MPPGv4.Dtos\MPPGv4.Dtos.csproj", "{BEF4FB03-DEB3-48AC-8D94-97AACE199B9D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D6B0AB84-DEC8-4AFD-8590-15471D17F969}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D6B0AB84-DEC8-4AFD-8590-15471D17F969}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D6B0AB84-DEC8-4AFD-8590-15471D17F969}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D6B0AB84-DEC8-4AFD-8590-15471D17F969}.Release|Any CPU.Build.0 = Release|Any CPU
+		{667608D2-8557-4FCF-B420-B62B7E38C6EF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{667608D2-8557-4FCF-B420-B62B7E38C6EF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{667608D2-8557-4FCF-B420-B62B7E38C6EF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{667608D2-8557-4FCF-B420-B62B7E38C6EF}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4F587EF2-2796-4EF9-B1FE-AA9328B9EAF3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4F587EF2-2796-4EF9-B1FE-AA9328B9EAF3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4F587EF2-2796-4EF9-B1FE-AA9328B9EAF3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4F587EF2-2796-4EF9-B1FE-AA9328B9EAF3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BEF4FB03-DEB3-48AC-8D94-97AACE199B9D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEF4FB03-DEB3-48AC-8D94-97AACE199B9D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEF4FB03-DEB3-48AC-8D94-97AACE199B9D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEF4FB03-DEB3-48AC-8D94-97AACE199B9D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{667608D2-8557-4FCF-B420-B62B7E38C6EF} = {33728E09-6B41-4CAE-840B-90C33F32AF2D}
+		{4F587EF2-2796-4EF9-B1FE-AA9328B9EAF3} = {F2B5F552-DEB4-44E9-AE76-1DACD3AFECFE}
+		{BEF4FB03-DEB3-48AC-8D94-97AACE199B9D} = {2C30CB48-BAB7-44A3-9C38-337C26962D9E}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BD80B648-195F-411F-BE28-4525D57E8853}
+	EndGlobalSection
+EndGlobal

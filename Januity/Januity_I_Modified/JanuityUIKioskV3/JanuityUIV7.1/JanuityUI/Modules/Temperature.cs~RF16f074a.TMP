@@ -1,0 +1,159 @@
+﻿using System;
+using SuperWebSocket;
+using System.Windows.Forms;
+using System.Net.WebSockets;
+using System.Threading;
+using Websocket.Client;
+using System.Threading.Tasks;
+using Serilog;
+using System.Diagnostics;
+using System.IO;
+using System.Collections.Generic;
+using Newtonsoft.Json;
+using Newtonsoft.Json.Linq;
+
+namespace JanuityUI.Modules
+{
+    internal class Temperature
+    {
+        static Thread cmd;
+        static Uri url;
+        static ManualResetEvent exitEvent;
+        static IWebsocketClient client;
+        public static WebSocketSession csession;
+
+        public static void Serverstart()
+        {
+            
+            kioskLog.SrushtyLog_Temp("Temperature Started");
+            cmd = new Thread(Run_cmd);
+            exitEvent = new ManualResetEvent(false);
+            url = new Uri("ws://localhost:9872/ws");
+            using (client = new WebsocketClient(url))
+            {
+                client.ReconnectTimeout = TimeSpan.FromSeconds(30);
+                client.ReconnectionHappened.Subscribe(info =>
+                    Log.Information($"Reconnection happened, type: {info.Type}"));
+                client.MessageReceived.Subscribe(msg => Receiveddata("" + msg));
+                if (cmd != null || !cmd.IsAlive)
+                {
+                    cmd.Start();
+                }
+                kioskLog.SrushtyLog_Temp("Socket Started");
+                client.Start();
+                //Task.Run(() => client.Send("opencamera"));
+                exitEvent.WaitOne();
+            }
+        }
+        static Process myprocess;
+        static ProcessStartInfo start;
+
+        private static void Run_cmd()
+        {
+            start = new ProcessStartInfo();
+            start.FileName = @"C:\Python38\python.exe";
+            string root = Application.StartupPath;
+            System.Console.WriteLine(root);
+            start.Arguments = string.Format("{0}", root + "feverscreeningpythonscript\test_script.py");
+            start.UseShellExecute = false;
+            start.RedirectStandardOutput = true;
+            start.CreateNoWindow = true;
+            using (myprocess = Process.Start(start))
+            {
+                kioskLog.SrushtyLog_Temp("Process Started");
+                using (StreamReader reader = myprocess.StandardOutput)
+                {
+                    string result = reader.ReadToEnd();
+                    Console.Write(result);
+                }
+            }
+        }
+
+        public void GetTemperature(WebSocketSession gsession)
+        {
+            csession = gsession;
+            client.Send("opencamera");
+            kioskLog.SrushtyLog_Temp("GetTemperature Open Camera");
+        }
+
+        static String evo_thermal;
+        static String evo_mini;
+        static int stoptemp = 0;
+        static float AvgTemperature, totTemp;
+        public static void Receiveddata(String Message)
+        {
+            kioskLog.SrushtyLog_Temp("Recevied data " + Message);
+            System.Console.WriteLine("Recevied Data " + Message);
+            if (Message.Contains("evo_thermal_port"))
+            {//{"evo_thermal_port": "COM16", "evo_mini_port": "COM13"}             
+                var details = JObject.Parse(Message);
+                System.Console.WriteLine("evo_thermal_port: " + details["evo_thermal_port"] + " evo_mini_port: " + details["evo_mini_port"]);
+                String str = Message;
+                String[] spearate = { "{", "'evo_thermal_port':", ",", "'evo_mini_port':", "}" };
+                String[] strlist1 = str.Split(spearate,
+                    StringSplitOptions.RemoveEmptyEntries);
+                evo_mini = strlist1[1];
+                evo_thermal = strlist1[0];
+                evo_mini = evo_mini.Substring(evo_mini.IndexOf(':') + 1);
+                evo_thermal = evo_thermal.Substring(evo_thermal.IndexOf(':') + 1);
+                evo_thermal = evo_thermal.Trim(new Char[] { ' ', '"', '"' });
+                evo_mini = evo_mini.Trim(new Char[] { ' ', '"', '"' });
+                kioskLog.SrushtyLog_Temp("evo_thermal port " + evo_thermal);
+                kioskLog.SrushtyLog_Temp("evo_mini port " + evo_mini);
+                PortDetection.Set_Temperature_portdetectmsg(evo_thermal);
+                PortDetection.Set_Temperature_portdetectmsg1(evo_mini);
+                /*JanuityKiosk.exitToolStripMenuItem_Click(myprocess);*/
+            }
+            else if (Message.Contains("DistanceValue"))
+            {// TempValue,0.0 DistanceValue,40
+                String[] ThermalValue = Message.Split(' ');
+                String[] TemperatureValue = ThermalValue[0].Split(',');//TempValue,0.0
+                String[] DistanceValue = ThermalValue[1].Split(',');//DistanceValue,40
+                System.Console.WriteLine("Temp Value: " + TemperatureValue[1] + " Distance Value: " + DistanceValue[1]);
+                csession.Send("Temperature_Distance " + TemperatureValue[1] + " " + DistanceValue[1]);
+                float ThermalTemperature = float.Parse(TemperatureValue[1]);
+                if (ThermalTemperature != 0.0)
+                {
+                    stoptemp++;
+                    totTemp += ThermalTemperature;
+                    if (stoptemp >= 10)
+                    {
+                        AvgTemperature = totTemp / 10;
+                        client.Send("closecamera");
+                        kioskLog.SrushtyLog_Temp(" AvgTemperature " + AvgTemperature);
+                        csession.Send("Temperature " + Math.Round(AvgTemperature, 2));
+                        stoptemp = 0;
+                        totTemp = 0;
+                    }
+                }
+            }
+            else
+            {
+                System.Console.WriteLine("port Error " + Message);
+            }
+        }
+
+        public void Check_Temperature_Device(WebSocketSession gsession)
+        {
+            client.Send("closecamera");
+            kioskLog.SrushtyLog_Temp("GetTemperature Close Camera");
+        }
+        public static void ReadTemperature_open(WebSocketSession gsession)
+        {
+            kioskLog.SrushtyLog_Temp("Temperature Started Camera");
+            Serverstart();
+        }
+        private static void dfdsfvds(WebSocketSession csession)
+        {
+            kioskLog.SrushtyLog_Temp("Server Connection Status: Starting");
+            //Temperature.serverstart();
+        }
+        private void openCamera(WebSocketSession csession)
+        {
+            // ws.Send("opencamera");
+            kioskLog.SrushtyLog_Temp("Open Camera");
+            kioskLog.SrushtyLog_Temp("Start Python " + cmd.IsAlive);
+
+        }
+    }
+}

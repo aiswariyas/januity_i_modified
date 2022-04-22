@@ -1,0 +1,14 @@
+D:\Srushty\Januity\PaymentMagensa\MPPGv4-masterV2\MPPGv4-master\Samples\MPPG_DotNetCore\MPPGv4DemoApps\MPPGv4.UIFactory\bin\Debug\netcoreapp2.2\MPPGv4.UIFactory.deps.json
+D:\Srushty\Januity\PaymentMagensa\MPPGv4-masterV2\MPPGv4-master\Samples\MPPG_DotNetCore\MPPGv4DemoApps\MPPGv4.UIFactory\bin\Debug\netcoreapp2.2\MPPGv4.UIFactory.dll
+D:\Srushty\Januity\PaymentMagensa\MPPGv4-masterV2\MPPGv4-master\Samples\MPPG_DotNetCore\MPPGv4DemoApps\MPPGv4.UIFactory\bin\Debug\netcoreapp2.2\MPPGv4.UIFactory.pdb
+D:\Srushty\Januity\PaymentMagensa\MPPGv4-masterV2\MPPGv4-master\Samples\MPPG_DotNetCore\MPPGv4DemoApps\MPPGv4.UIFactory\bin\Debug\netcoreapp2.2\MPPGv4.Dtos.dll
+D:\Srushty\Januity\PaymentMagensa\MPPGv4-masterV2\MPPGv4-master\Samples\MPPG_DotNetCore\MPPGv4DemoApps\MPPGv4.UIFactory\bin\Debug\netcoreapp2.2\MPPGv4.ServiceFactory.dll
+D:\Srushty\Januity\PaymentMagensa\MPPGv4-masterV2\MPPGv4-master\Samples\MPPG_DotNetCore\MPPGv4DemoApps\MPPGv4.UIFactory\bin\Debug\netcoreapp2.2\MPPGv4.ServiceFactory.pdb
+D:\Srushty\Januity\PaymentMagensa\MPPGv4-masterV2\MPPGv4-master\Samples\MPPG_DotNetCore\MPPGv4DemoApps\MPPGv4.UIFactory\bin\Debug\netcoreapp2.2\MPPGv4.Dtos.pdb
+D:\Srushty\Januity\PaymentMagensa\MPPGv4-masterV2\MPPGv4-master\Samples\MPPG_DotNetCore\MPPGv4DemoApps\MPPGv4.UIFactory\obj\Debug\netcoreapp2.2\MPPGv4.UIFactory.csprojAssemblyReference.cache
+D:\Srushty\Januity\PaymentMagensa\MPPGv4-masterV2\MPPGv4-master\Samples\MPPG_DotNetCore\MPPGv4DemoApps\MPPGv4.UIFactory\obj\Debug\netcoreapp2.2\MPPGv4.UIFactory.AssemblyInfoInputs.cache
+D:\Srushty\Januity\PaymentMagensa\MPPGv4-masterV2\MPPGv4-master\Samples\MPPG_DotNetCore\MPPGv4DemoApps\MPPGv4.UIFactory\obj\Debug\netcoreapp2.2\MPPGv4.UIFactory.AssemblyInfo.cs
+D:\Srushty\Januity\PaymentMagensa\MPPGv4-masterV2\MPPGv4-master\Samples\MPPG_DotNetCore\MPPGv4DemoApps\MPPGv4.UIFactory\obj\Debug\netcoreapp2.2\MPPGv4.UIFactory.csproj.CoreCompileInputs.cache
+D:\Srushty\Januity\PaymentMagensa\MPPGv4-masterV2\MPPGv4-master\Samples\MPPG_DotNetCore\MPPGv4DemoApps\MPPGv4.UIFactory\obj\Debug\netcoreapp2.2\MPPGv4.UIFactory.csproj.CopyComplete
+D:\Srushty\Januity\PaymentMagensa\MPPGv4-masterV2\MPPGv4-master\Samples\MPPG_DotNetCore\MPPGv4DemoApps\MPPGv4.UIFactory\obj\Debug\netcoreapp2.2\MPPGv4.UIFactory.dll
+D:\Srushty\Januity\PaymentMagensa\MPPGv4-masterV2\MPPGv4-master\Samples\MPPG_DotNetCore\MPPGv4DemoApps\MPPGv4.UIFactory\obj\Debug\netcoreapp2.2\MPPGv4.UIFactory.pdb

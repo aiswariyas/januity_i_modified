@@ -1,0 +1,4 @@
+pyserial~=3.4
+crcmod~=1.7
+opencv-contrib-python
+numpy~=1.18.2

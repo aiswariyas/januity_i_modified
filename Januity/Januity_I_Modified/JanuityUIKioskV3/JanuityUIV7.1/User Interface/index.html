@@ -1,0 +1,328 @@
+<title>Januity Health Kiosk</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- <link href="favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"> -->
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<script src="js/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<style type="text/css">
+body {
+    background: url("background.png") no-repeat center center fixed;
+    color: #fff;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.btn:hover {
+    background: #668ad8;
+}
+
+.border-full
+{
+  border: 1px solid #fff;
+  height: 200px;
+  margin-bottom: 20px;
+  box-shadow: 2px 2px;
+  padding-top: 20px;
+}
+
+
+@media (min-width: 768px){
+  .seven-cols .col-md-1,
+  .seven-cols .col-sm-1,
+  .seven-cols .col-lg-1  {
+    width: 100%;
+    *width: 100%;
+  }
+}
+
+@media (min-width: 992px) {
+  .seven-cols .col-md-1,
+  .seven-cols .col-sm-1,
+  .seven-cols .col-lg-1 {
+    width: 14.285714285714285714285714285714%;
+    *width: 14.285714285714285714285714285714%;
+  }
+}
+
+/**
+ *  The following is not really needed in this case
+ *  Only to demonstrate the usage of @media for large screens
+ */    
+@media (min-width: 1200px) {
+  .seven-cols .col-md-1,
+  .seven-cols .col-sm-1,
+  .seven-cols .col-lg-1 {
+    width: 14.285714285714285714285714285714%;
+    *width: 14.285714285714285714285714285714%;
+  }
+}
+</style>
+<!-- <script type="text/javascript" src="jquery.js"></script> -->
+<script type="text/javascript">
+var noSupportMessage = "Your browser cannot support WebSocket!";
+var ws;
+var GetWeight;
+var GetSPO2;
+var GetTemp;
+var a='';
+
+
+function appendMessage(message) {
+
+    var msg = message.charAt(2);
+
+
+    if (msg == "b") {
+        var str = message.substr(3);
+        var str_array = str.split(',');
+        $('#live_data').html(str_array[0]+"/"+str_array[1]);
+        $('#pulse').html(str_array[2]);
+    } else if (msg == "a") {
+        $('#stopbp').html(message.substr(3));
+    } else if (msg == "w") {
+        $('#weight').html(message.substr(3));
+    } else if (msg == "s") {
+        $('#Getspo2').html(message.substr(3));
+    } else if (msg == "t") {
+        $('#temp').html(message.substr(3));
+    } else if (msg == "x") {
+        $('#warning-msg').html(message.substr(3));
+        $("#myModal").modal()
+    }
+
+}
+
+function connectSocketServer() {
+    var support = "MozWebSocket" in window ? 'MozWebSocket' : ("WebSocket" in window ? 'WebSocket' : null);
+
+    if (support == null) {
+        appendMessage("* " + noSupportMessage + "<br/>");
+        return;
+    }
+
+    appendMessage("* Connecting to server ..<br/>");
+    // create a new websocket and connect
+    ws = new window[support]('ws://localhost:2012/');
+
+    // when data is comming from the server, this metod is called
+    ws.onmessage = function(evt) {
+        appendMessage("# " + evt.data + "");
+    };
+
+    // when the connection is established, this method is called
+    ws.onopen = function() {
+        appendMessage('* Connection open<br/>');
+        ws.send("Getfirmwareversion");
+    };
+
+    // when the connection is closed, this method is called
+    ws.onclose = function() {
+        appendMessage('* Connection closed<br/>');
+        $('#connectButton').attr("disabled", "");
+        $('#disconnectButton').attr("disabled", "disabled");
+    }
+}
+
+ $(document).ready(function() {
+     //added missing-v quotes 
+     $('#START').click(function() {
+     
+		if (ws) {
+    		var messageBox = "StartBp";
+    		var StartBp = document.getElementById(StartBp);
+    		ws.send(messageBox);
+		}
+     }); 
+
+    $('#STOP').click(function() {
+
+    	if (ws) {
+        	var messageBox = "StopBp";
+        	var StopBp = document.getElementById(StopBp);
+        	ws.send(messageBox);
+        	document.getElementById("stop").style.display = "none";
+        	document.getElementById("Systolic").style.display = "none";
+    		}
+
+    }); 
+
+     $('#GetSPO2').click(function() {
+     
+    	if (ws) {
+        	var messageBox = "GetSpO2";
+        	GetSPO2 = document.getElementById(GetSPO2);      
+        	ws.send(messageBox);        
+    	}
+    }); 
+
+
+    $('#GetWeight').click(function() {
+     
+     	if (ws) {
+        	var messageBox = "GetWeight";
+        	GetWeight = document.getElementById(GetWeight);
+        	ws.send(messageBox);
+    	}
+    }); 
+
+    $('#GetTemp').click(function() {
+
+    	if (ws) {
+        	var messageBox = "GetTemp";
+        	var GetTemp = document.getElementById(GetTemp);
+        	ws.send(messageBox);
+    	}
+    }); 
+
+
+    $('#show').click(function() {
+
+    	if (ws) {
+        	var messageBox = "showcomponentstatus";
+        	var show = document.getElementById(show);
+        	ws.send(messageBox);
+    	}
+    }); 
+
+
+    $('#hide').click(function() {
+
+    	if (ws) {
+        	var messageBox = "hidecomponentstatus";
+        	var hide = document.getElementById(hide);
+        	ws.send(messageBox);
+    	}
+    }); 
+
+
+
+   });    
+window.onload = function() {
+    connectSocketServer();
+}
+</script>
+</head>
+
+<body>
+</body>
+<div class="container" style="padding-top: 30px">
+    <h2 style="text-align: center;padding-bottom: 15px;font-weight: bold">Januity Health Kiosk</h2>
+    <div class="text-center" style="opacity: 0.99">
+    </div>
+
+    <div class="row" style=" padding: 10px">
+
+
+        <div class="col-md-3" >
+            <div class="col-md-12 border-full" >
+                <div class="single-item text-center" id="START"  data-toggle="modal" data-target="#myModal">
+                    <h4>Blood pressure </h4>
+                    <div class="icon-holder">
+                        <img src="bp.png" width="30%">
+                    </div>
+                    <div>
+
+
+                        <h2 id="live_data">0</h2>
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-12 border-full">
+                <div class="single-item text-center">
+                    <h4>Pulse</h4>
+                    <div class="icon-holder">
+                        <img src="pulse.png" width="30%">
+                    </div>
+                    <h2 id="pulse">0</h2>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3">
+            <div class="col-md-12 border-full" id="GetWeight">
+                <div class="single-item text-center">
+        
+                        <h4>Weight Scale</h4>
+                    <div class="icon-holder">
+                        <img src="weight.png" width="37%">
+                    </div>
+                    <h2 id="weight">0</h2>
+            </div>
+          </div>
+
+
+            <div class="col-md-12 border-full" id="GetSPO2">
+                <div class="single-item text-center" >
+                          <h4>SPO 2 </h4>
+                    <div class="icon-holder">
+                        <img src="spo2.png" width="35%">
+                    </div>
+                    <h2 id="Getspo2">0</h2>
+                </div>
+                </div>
+            </div>
+      
+        <div class="col-md-3">
+            <div class="col-md-12 border-full" id="getBMI">
+                <div class="single-item text-center">
+                    <h4>Finger Print Sensor</h4>
+                    <div class="icon-holder">
+                        <img src="fprint.png" width="36%">
+                    </div>
+                    <h2 id="bmi"></h2><span id="bmicontent" style="font-size: 15px;"></span>
+                </div>
+            </div>
+
+                        <div class="col-md-12 border-full" id="GetTemp">
+                <div class="single-item text-center">
+                    <h4>Temperature</h4>
+                    <div class="icon-holder">
+                        <img src="temp.png" width="28%" >
+                    </div>
+                    <h2 id="temp">0</h2>
+                </div>
+            </div>
+
+
+        </div>
+
+        <div class="col-md-3 ">
+            <div class="col-md-12 border-full" id="GetDynamo">
+                <div class="single-item text-center" >
+                  <h4>eDynamo payment</h4> 
+                    <div class="icon-holder" style="padding-top: 5px">
+                        <img src="pos.png" width="40%" >
+                    </div>
+                   
+   
+                </div>
+            </div>
+
+                        <div class="col-md-12 border-full" id="GetDynowave">
+                <div class="single-item text-center">
+                    <h4>Dyno Wave payment</h4> 
+                    <div class="icon-holder" style="padding-top: 5px">
+                        <img src="nfc.png" width="40%" >
+                    </div>
+                  
+                </div>
+            </div>
+
+
+        </div>
+    </div>   
+
+
+</div>
+
+
+
+
+
+</html>

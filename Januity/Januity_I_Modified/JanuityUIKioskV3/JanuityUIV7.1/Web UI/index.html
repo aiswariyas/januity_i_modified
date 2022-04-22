@@ -1,0 +1,676 @@
+<title>Januity Health Kiosk</title>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+
+<!-- <link href="favicon.ico" rel="shortcut icon" type="image/vnd.microsoft.icon"> -->
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.1/css/all.css">
+<link rel="stylesheet" href="css/bootstrap.min.css">
+<script src="js/jquery.min.js"></script>
+<script src="js/bootstrap.min.js"></script>
+<style type="text/css">
+body {
+    background: url("background.png") no-repeat center center fixed;
+    color: #fff;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.btn:hover {
+    background: #668ad8;
+}
+
+.border-full
+{
+  border: 1px solid #fff;
+  height: 200px;
+  margin-bottom: 15px;
+  box-shadow: 2px 2px;
+  padding-top: 15px;
+}
+
+
+@media (min-width: 768px){
+  .seven-cols .col-md-1,
+  .seven-cols .col-sm-1,
+  .seven-cols .col-lg-1  {
+    width: 100%;
+    *width: 100%;
+  }
+}
+
+@media (min-width: 992px) {
+  .seven-cols .col-md-1,
+  .seven-cols .col-sm-1,
+  .seven-cols .col-lg-1 {
+    width: 14.285714285714285714285714285714%;
+    *width: 14.285714285714285714285714285714%;
+  }
+}
+
+/**
+ *  The following is not really needed in this case
+ *  Only to demonstrate the usage of @media for large screens
+ */    
+@media (min-width: 1200px) {
+  .seven-cols .col-md-1,
+  .seven-cols .col-sm-1,
+  .seven-cols .col-lg-1 {
+    width: 14.285714285714285714285714285714%;
+    *width: 14.285714285714285714285714285714%;
+  }
+}
+</style>
+<!-- <script type="text/javascript" src="jquery.js"></script> -->
+<script type="text/javascript">
+var noSupportMessage = "Your browser cannot support WebSocket!";
+var ws;
+var GetWeight;
+var GetSPO2;
+var GetTemp;
+var a='';
+
+
+function appendMessage(message) {
+    //$('body').append(message,"<br>");
+
+    var msg = message.split(" ");
+
+	//alert(message);
+
+
+
+    if (msg[1] == "BP") {
+        var str = msg[2];
+        var str_array = str.split(',');
+        //alert(message);
+        $('#Diastolic').html(str_array[0]);
+        $('#Systolic').html(str_array[1]);
+        $('#pulse').html(str_array[2]);
+
+        $("#myModal").modal('hide')
+
+    } else if (msg[1] == "BloodPressureStop") {
+        $('#stopbp').html(msg[2]);        
+        $('#Diastolic').html("0");
+        $('#Systolic').html("0");
+        $('#pulse').html("0");
+
+    } else if (msg[1] == "Weight") {
+        $('#weight').html(msg[2]);
+    }
+      else if (msg[1] == "Height") {
+        $('#Getspo2').html(msg[2]);
+
+    } else if (msg[1] == "Temperature_Distance") {
+        $('#temp').html(msg[2]+" "+msg[3] );
+        
+    } else if (msg[1] == "Temperature") {
+        $('#temp').html(msg[2]+"°C");
+
+    } else if (msg[1] == "SpO2") {
+       $('#Getspo2').html(msg[2]);
+
+    } else if (msg[1] == "SpO2Error") {
+       alert(message);
+    }
+
+
+      else if (msg[1] == "Temperature_Device_Connected") {
+        $('#check_temp_connect').html("Temp device Connected");
+    }
+
+      else if (msg[1] == "Temperature_Device_Not_Connected") {
+        $('#check_temp_connect').html("Temp device Not Connected");
+    }
+
+      else if (msg[1] == "SpO2_Device_Connected") {
+        $('#check_Sp02_connect').html("Sp02 device Connected");
+    }
+
+      else if (msg[1] == "SpO2_Not_Device_Connected") {
+        $('#check_Sp02_connect').html("Sp02 device Not Connected");
+    }
+
+
+      else if (msg[1] == "Weight_Device_Connected") {
+        $('#check_weight_connect').html("Weight device Connected");
+    }
+
+      else if (msg[1] == "Weight_Device_Not_Connected") {
+        $('#check_weight_connect').html("Weight device Not Connected");
+    }
+
+      else if (msg[1] == "Fingerprint_Device_Connected") {
+        $('#check_fingerprint_connect').html("Fingerprint Device Connected");
+    }
+
+      else if (msg[1] == "Fingerprint_Not_Device_Connected") {
+        $('#check_fingerprint_connect').html("Fingerprint Device Not Connected");
+    }
+
+      else if (msg[1] == "BP_Device_Connected") {
+        $('#check_bp_connect').html("BP Device Connected");
+    }
+
+      else if (msg[1] == "BP_Device_Not_Connected") {
+        $('#check_bp_connect').html("BP Device Not Connected");
+    }
+
+    else if (msg[1] == "Error") 
+          {
+            console.log("Error");
+            
+            alert(msg[2]+" "+msg[3]+" "+msg[4] );
+
+            console.log("Error");
+          }
+
+
+    else if (msg[1] == "BPLive") {
+        $('#Diastolic').html("0");
+        $('#Systolic').html("0");
+        $('#pulse').html("0");
+        $('#live_value').html(msg[2]);
+    }
+
+    else if (msg[1] == "Fingerprint") {
+        $('#FingerPrint').html(msg[2]);
+    }
+
+    else if (msg[1] == "FingerCheck") {
+        $('#fp_scan').html(msg[2]);
+    }
+
+    else if (msg[1] == "x") {
+        //$('#warning-msg').html(message.substr(3));
+        alert(message);
+        $("#myModal").modal('hide')
+    }
+
+    else{
+        //alert(message);
+    }
+
+}
+
+function connectSocketServer() {
+    var support = "MozWebSocket" in window ? 'MozWebSocket' : ("WebSocket" in window ? 'WebSocket' : null);
+
+    if (support == null) {
+        appendMessage("* " + noSupportMessage + "<br/>");
+        return;
+    }
+
+    appendMessage("* Connecting to server ..<br/>");
+    // create a new websocket and connect
+    ws = new window[support]('ws://localhost:2012/');
+
+    // when data is comming from the server, this metod is called
+    ws.onmessage = function(evt) {
+        appendMessage("# " + evt.data + "");
+    };
+
+    // when the connection is established, this method is called
+    ws.onopen = function() {
+        appendMessage('* Connection open<br/>');
+        // $('#messageInput').attr("disabled", "");
+        // $('#sendButton').attr("disabled", "");
+
+        ws.send("GetPortStatus");
+    };
+
+    // when the connection is closed, this method is called
+    ws.onclose = function() {
+        appendMessage('* Connection closed<br/>');
+        // $('#messageInput').attr("disabled", "disabled");
+        // $('#sendButton').attr("disabled", "disabled");
+        $('#connectButton').attr("disabled", "");
+        $('#disconnectButton').attr("disabled", "disabled");
+
+       connectSocketServer();
+    }
+}
+
+
+
+
+ $(document).ready(function() {
+     //added missing-v quotes 
+      $('#START').click(function() {
+     
+    if (ws) {
+        var messageBox = "StartBp";
+        var StartBp = document.getElementById(StartBp);
+        ws.send(messageBox);
+
+    }
+     }); 
+
+       $('#STOP').click(function() {
+
+    if (ws) {
+        var messageBox = "StopBp";
+        var StopBp = document.getElementById(StopBp);
+        ws.send(messageBox);
+       // document.getElementById("stop").style.display = "none";
+       // document.getElementById("Systolic").style.display = "none";
+
+    }
+
+     }); 
+
+   //      $('#getBMI').click(function() {
+     
+   //   var GetWeight = document.getElementById("weight").textContent;
+   //   var GetHeight = document.getElementById("height").textContent;
+   //  // GetWeight = document.getElementById('weight');
+   //  // GetHeight = document.getElementById('height');
+
+   //  console.log(GetWeight);
+   //  console.log(GetHeight);
+
+   //  w =parseInt(GetWeight);
+   //  h =parseInt(GetHeight);
+
+
+   //  var finalBmi = w/(h/100*h/100);
+   //  console.log(finalBmi);
+   //  var x =finalBmi.toPrecision(4);   
+
+   //  if (w>0 && h>0) { 
+   //  $('#bmi').html(x);
+
+   //   if(finalBmi < 18.5){
+   //   document.getElementById("bmicontent").innerHTML = "Underweight";
+   //  }
+   //  else if(finalBmi > 18.5 && finalBmi < 22.99){
+   //   document.getElementById("bmicontent").innerHTML = "Normal weight";
+   //  }
+   // else if(finalBmi > 23 && finalBmi < 27.5){
+   //   document.getElementById("bmicontent").innerHTML = "Overweight";
+   //  }
+   //  else if (finalBmi > 27.5){
+   //     document.getElementById("bmicontent").innerHTML = "Obesity";
+   //  }
+   //  }
+
+   //  else
+   //  {
+   //    $('#bmi').html('0');
+   //  }
+   //   }); GetBMI
+
+
+
+     $('#GetSPO2').click(function() {
+     
+    if (ws) {
+        var messageBox = "GetSpO2";
+        GetSPO2 = document.getElementById(GetSPO2);
+      
+        ws.send(messageBox);
+        
+    }
+     }); 
+
+          $('#GetFingerPrint').click(function() {
+     
+    if (ws) {
+        var messageBox = "GetFingerPrint";
+        GetFingerPrint = document.getElementById(GetFingerPrint);
+      
+        ws.send(messageBox);
+        
+    }
+     });
+
+        $('#CheckFingerPrint').click(function() {
+     
+    if (ws) {
+        var messageBox = "CheckFingerPrint";
+       CheckFingerPrint = document.getElementById(CheckFingerPrint);
+      
+        ws.send(messageBox);
+        
+    }
+     });
+
+
+      $('#GetWeight').click(function() {
+     
+     if (ws) {
+        var messageBox = "GetWeight";
+        GetWeight = document.getElementById(GetWeight);
+        ws.send(messageBox);
+    }
+     }); 
+
+     $('#GetTemp').click(function() {
+
+    if (ws) {
+        var messageBox = "GetTemp";
+        var GetTemp = document.getElementById(GetTemp);
+        ws.send(messageBox);
+    }
+     }); 
+
+
+          $('#show').click(function() {
+
+    if (ws) {
+        var messageBox = "showcomponentstatus";
+        var show = document.getElementById(show);
+        ws.send(messageBox);
+        //$("#myModal").modal("show")
+        //alert("Show");
+    }
+     }); 
+
+
+    $('#hide').click(function() {
+
+    if (ws) {
+        var messageBox = "hidecomponentstatus";
+        var hide = document.getElementById(hide);
+        ws.send(messageBox);
+        //$("#myModal").modal("hide")
+        //alert("Hide");
+    }
+     }); 
+
+
+
+
+   });    
+window.onload = function() {
+    connectSocketServer();
+}
+
+
+
+
+
+
+      function check_temp(){
+    if (ws) 
+    {
+        
+        var messageBox = "check_device_temp";
+        ws.send(messageBox);
+       
+        alert("temperature Value")
+       // if (ws.send(messageBox)) {
+         //   alert("raspberry is connected");
+      //  }
+       // else {
+       //     alert("raspberry is disconnected");
+      
+      }
+      }
+
+
+          function check_weight_connect(){
+    if (ws) 
+      {
+        var messageBox = "check_weight_connect";
+        ws.send(messageBox);
+      }
+      }
+
+
+
+          function check_fingerprint_connect(){
+    if (ws) 
+      {
+        var messageBox = "check_fingerprint_connect";
+        ws.send(messageBox);
+      }
+      }
+
+
+          function check_bp_connect(){
+    if (ws) 
+      {
+        var messageBox = "check_bp_connect";
+        ws.send(messageBox);
+      }
+      }
+
+
+        function check_Sp02_connect(){
+    if (ws) 
+      {
+        var messageBox = "GetSpO2";
+        ws.send(messageBox);
+      }
+      }
+
+</script>
+
+
+</head>
+<body>
+   <!--  <div style="text-align:left;padding-top: 20px;"><img src="logo.png"> </div> -->
+</body>
+<div class="container" style="padding-top: 30px">
+    <h2 style="text-align: center;padding-bottom: 15px;font-weight: bold">Januity HEALTH KIOSK</h2>
+    <div class="text-center" style="opacity: 0.99">
+    <!--   <button type="button" id="show" class="btn btn-success">Show Components</button>
+      <button type="button" id="hide" class="btn btn-success">Hide Components</button> -->
+       <!--  <button type="button" class="btn btn-info btn-lg" data-toggle="modal" data-target="#myModal">Open Modal</button> -->
+    </div>
+
+    <div class="row" style=" padding: 0px">
+
+
+
+<div class="row">
+
+<div class="col-md-3 text-center" >
+
+<button type="button" onclick="check_temp()" class="btn btn-primary">Check Temp Device</button>
+
+<h4 id="check_temp_connect"> </h4>
+</div>
+
+
+
+<div class="col-md-3 text-center" >
+
+<button type="button" onclick="check_weight_connect()" class="btn btn-primary">Check Weight Device</button>
+<h4 id="check_weight_connect"> </h4>
+</div>
+
+
+
+
+<div class="col-md-3 text-center" >
+
+<button type="button" onclick="check_fingerprint_connect()" class="btn btn-primary">Check Fingerprint Device</button>
+<h4 id="check_fingerprint_connect"> </h4>
+</div>
+
+<div class="col-md-3 text-center" >
+
+<button type="button" onclick="check_Sp02_connect()" class="btn btn-primary">Check Sp02 Device</button>
+<h4 id="check_Sp02_connect"> </h4>
+</div>
+
+
+
+<div class="col-md-3 text-center" >
+
+<button type="button" onclick="check_bp_connect()" class="btn btn-primary">Check BP Device</button>
+<h4 id="check_bp_connect"> </h4>
+</div>
+
+
+
+
+
+
+<!-- <div class="col-md-3 text-center" >
+
+<button type="button" onclick="check_oDynamo_connect()" class="btn btn-primary">Check oDynamo Payment Device</button>
+<h4 id="check_oDynamo_Payment_connect"> </h4>
+</div>
+
+
+<div class="col-md-3 text-center" >
+
+<button type="button" onclick="check_Dyno_connect()" class="btn btn-primary">Check Dyno Wave payment Device</button>
+<h4 id="check_Sp02_connect"> </h4>
+</div>
+ -->
+
+
+</div>
+
+        <div class="col-md-3" >
+            <div class="col-md-12 border-full" >
+                <div class="single-item text-center" id="START"  data-toggle="modal" data-target="#myModal">
+                    <h4>Blood pressure </h4>
+                    <div class="icon-holder">
+                        <img src="bp.png" width="30%">
+                        <!-- <i class="fas fa-stethoscope fa-6x"></i> -->
+                    </div>
+                    <div>
+
+						      <h2 style="float:left;padding-left:35%;" id="Diastolic">0</h2>
+           				<h2 style="float:left;padding-left:1%;" id="stop"> / </h2>
+           				<h2 style="float:left;padding-left:1%;" id="Systolic">0</h2>
+                        <!--<h2 id="result_data">0</h2>-->
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-md-12 border-full">
+                <div class="single-item text-center">
+                    <h4>Pulse</h4>
+                    <div class="icon-holder">
+                       <!--  <i class="fas fa-heartbeat fa-6x"></i> -->
+                        <img src="pulse.png" width="30%">
+                    </div>
+                    <h2 id="pulse">0</h2>
+                </div>
+            </div>
+        </div>
+
+        <div class="col-md-3">
+            <div class="col-md-12 border-full" id="GetWeight">
+                <div class="single-item text-center">
+        
+                        <h4>Weight Scale</h4>
+                    <div class="icon-holder">
+                       <!--  <i class="fas fa-weight fa-6x"></i> -->
+                        <img src="weight.png" width="37%">
+                    </div>
+                    <h2 id="weight">0</h2>
+            </div>
+          </div>
+
+
+            <div class="col-md-12 border-full" id="GetSPO2">
+                <div class="single-item text-center" >
+                          <h4>SPO 2 </h4>
+                    <div class="icon-holder">
+                        <!--   <i class="fas fa-ruler-vertical fa-10x"></i> -->
+                        <img src="spo2.png" width="35%">
+                    </div>
+                    <h2 id="Getspo2">0</h2>
+                </div>
+                </div>
+            </div>
+      
+        <div class="col-md-3">
+            <div class="col-md-12 border-full" id="GetFingerPrint">
+                <div class="single-item text-center">
+                    <h4>FingerPrint Storing</h4>
+                    <div class="icon-holder">
+                        <img src="bmi.png" width="36%">
+                    </div>
+                    <h2 id="FingerPrint">0</h2><span id="bmicontent" style="font-size: 15px;"></span>
+                </div>
+            </div>
+
+                        <div class="col-md-12 border-full" id="GetTemp">
+                <div class="single-item text-center">
+                    <h4>Temperature</h4>
+                    <div class="icon-holder">
+                        <img src="temp.png" width="28%" >
+                    </div>
+                    <h2 id="temp">0</h2>
+                </div>
+            </div>
+
+
+        </div>
+
+        <div class="col-md-3 ">
+            <div class="col-md-12 border-full" id="CheckFingerPrint">
+                <div class="single-item text-center" >
+                  <h4>oDynamo Payment</h4> 
+                    <div class="icon-holder" style="padding-top: 5px">
+                        <img src="pos.png" width="40%" >
+                    </div>
+                     <h2 id="fp_scan"></h2> 
+   
+                </div>
+            </div>
+
+                        <div class="col-md-12 border-full" id="GetDynowave">
+                <div class="single-item text-center">
+                    <h4>Dyno Wave payment</h4> 
+                    <div class="icon-holder" style="padding-top: 5px">
+                        <img src="nfc.png" width="40%" >
+                    </div>
+                   <!--  <h2 id="temp">0</h2> -->
+                </div>
+            </div>
+
+
+        </div>
+    </div>
+
+     <!-- Modal -->
+  <div class="modal fade" id="myModal" role="dialog">
+    <div class="modal-dialog">
+    
+      <!-- Modal content-->
+      <div class="modal-content">
+       <!--  <div class="modal-header">
+          <button type="button" class="close" data-dismiss="modal">&times;</button>
+          <h4 class="modal-title"></h4>
+        </div> -->
+        <div class="modal-body text-center" style="padding-bottom: 40px;">
+          <h4 style="color: black !important;" id="live_data">Live Data</h4>  
+
+          <h2 id="live_value" style="    margin-top: 0px;color: black !important;">0</h2>
+         
+         <!--<h4 style="color: black !important;"id="result_data">Result</h4>-->
+          
+         <div class="text-center">
+          <!--<div>
+           <h2 style="float:left;padding-left:46%;margin-top: 0px;color: black !important;" id="Diastolic">0</h2>
+           <h2 style="float:left;padding-left:1%;margin-top: 0px;color: black !important;" id="stop"> / </h2>
+           <h2 style="float:left;padding-left:1%;margin-top: 0px;color: black !important;" id="Systolic">0</h2>
+          </div>-->
+          </div>
+        </div>
+
+        <div class="modal-footer">
+          <button type="button" class="btn btn-danger btn-lg btn-block" data-dismiss="modal" id="STOP">In Case of Emergency Press Here! Stop Test</button>
+        </div>
+      </div>
+      
+    </div>
+  </div>
+</div>
+
+
+
+
+
+</html>

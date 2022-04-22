@@ -1,0 +1,34 @@
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\MPPGv4.Dtos\bin\Debug\net472\MPPGv4.Dtos.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\MPPGv4.Dtos\bin\Debug\net472\MPPGv4.Dtos.pdb
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\MPPGv4.Dtos\obj\Debug\net472\MPPGv4.Dtos.AssemblyInfoInputs.cache
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\MPPGv4.Dtos\obj\Debug\net472\MPPGv4.Dtos.AssemblyInfo.cs
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\MPPGv4.Dtos\obj\Debug\net472\MPPGv4.Dtos.csproj.CoreCompileInputs.cache
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\MPPGv4.Dtos\obj\Debug\net472\MPPGv4.Dtos.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\MPPGv4.Dtos\obj\Debug\net472\MPPGv4.Dtos.pdb
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\MPPGv4.Dtos\obj\Debug\net472\MPPGv4.Dtos.csprojAssemblyReference.cache
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\MPPGv4.Dtos\bin\Debug\net472\MPPGv4.Dtos.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\MPPGv4.Dtos\bin\Debug\net472\MPPGv4.Dtos.pdb
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\MPPGv4.Dtos\obj\Debug\net472\MPPGv4.Dtos.csprojAssemblyReference.cache
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\MPPGv4.Dtos\obj\Debug\net472\MPPGv4.Dtos.AssemblyInfoInputs.cache
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\MPPGv4.Dtos\obj\Debug\net472\MPPGv4.Dtos.AssemblyInfo.cs
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\MPPGv4.Dtos\obj\Debug\net472\MPPGv4.Dtos.csproj.CoreCompileInputs.cache
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\MPPGv4.Dtos\obj\Debug\net472\MPPGv4.Dtos.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\MPPGv4.Dtos\obj\Debug\net472\MPPGv4.Dtos.pdb
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.Dtos\bin\Debug\net472\MPPGv4.Dtos.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.Dtos\bin\Debug\net472\MPPGv4.Dtos.pdb
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.Dtos\obj\Debug\net472\MPPGv4.Dtos.csproj.AssemblyReference.cache
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.Dtos\obj\Debug\net472\MPPGv4.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.Dtos\obj\Debug\net472\MPPGv4.Dtos.AssemblyInfoInputs.cache
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.Dtos\obj\Debug\net472\MPPGv4.Dtos.AssemblyInfo.cs
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.Dtos\obj\Debug\net472\MPPGv4.Dtos.csproj.CoreCompileInputs.cache
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.Dtos\obj\Debug\net472\MPPGv4.Dtos.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.Dtos\obj\Debug\net472\MPPGv4.Dtos.pdb
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.Dtos\bin\Debug\net472\MPPGv4.Dtos.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.Dtos\bin\Debug\net472\MPPGv4.Dtos.pdb
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.Dtos\obj\Debug\net472\MPPGv4.Dtos.csproj.AssemblyReference.cache
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.Dtos\obj\Debug\net472\MPPGv4.Dtos.GeneratedMSBuildEditorConfig.editorconfig
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.Dtos\obj\Debug\net472\MPPGv4.Dtos.AssemblyInfoInputs.cache
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.Dtos\obj\Debug\net472\MPPGv4.Dtos.AssemblyInfo.cs
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.Dtos\obj\Debug\net472\MPPGv4.Dtos.csproj.CoreCompileInputs.cache
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.Dtos\obj\Debug\net472\MPPGv4.Dtos.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.Dtos\obj\Debug\net472\MPPGv4.Dtos.pdb

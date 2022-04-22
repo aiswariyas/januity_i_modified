@@ -1,0 +1,78 @@
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\MPPGv4.ServiceFactory.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\MPPGv4.ServiceFactory.pdb
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\Microsoft.Extensions.Configuration.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\Microsoft.Extensions.Configuration.Binder.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\Microsoft.Extensions.Primitives.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\System.Buffers.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\System.Memory.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\System.Numerics.Vectors.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\MPPGv4.Dtos.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\MPPGv4.Dtos.pdb
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\MPPGv4.ServiceFactory\obj\Debug\net472\MPPGv4.ServiceFactory.csprojAssemblyReference.cache
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\MPPGv4.ServiceFactory\obj\Debug\net472\MPPGv4.ServiceFactory.AssemblyInfoInputs.cache
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\MPPGv4.ServiceFactory\obj\Debug\net472\MPPGv4.ServiceFactory.AssemblyInfo.cs
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\MPPGv4.ServiceFactory\obj\Debug\net472\MPPGv4.ServiceFactory.csproj.CoreCompileInputs.cache
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\MPPGv4.ServiceFactory\obj\Debug\net472\MPPGv4.ServiceFactory.csproj.CopyComplete
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\MPPGv4.ServiceFactory\obj\Debug\net472\MPPGv4.ServiceFactory.dll
+D:\Srushty\Januity\JanuityUI V5.0\JanuityUIV7.1\MPPGv4.ServiceFactory\obj\Debug\net472\MPPGv4.ServiceFactory.pdb
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\MPPGv4.ServiceFactory.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\MPPGv4.ServiceFactory.pdb
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\Microsoft.Extensions.Configuration.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\Microsoft.Extensions.Configuration.Abstractions.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\Microsoft.Extensions.Configuration.Binder.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\Microsoft.Extensions.Primitives.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\System.Buffers.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\System.Memory.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\System.Numerics.Vectors.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\MPPGv4.Dtos.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\MPPGv4.Dtos.pdb
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\MPPGv4.ServiceFactory\obj\Debug\net472\MPPGv4.ServiceFactory.csprojAssemblyReference.cache
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\MPPGv4.ServiceFactory\obj\Debug\net472\MPPGv4.ServiceFactory.AssemblyInfoInputs.cache
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\MPPGv4.ServiceFactory\obj\Debug\net472\MPPGv4.ServiceFactory.AssemblyInfo.cs
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\MPPGv4.ServiceFactory\obj\Debug\net472\MPPGv4.ServiceFactory.csproj.CoreCompileInputs.cache
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\MPPGv4.ServiceFactory\obj\Debug\net472\MPPGv4.ServiceFactory.csproj.CopyComplete
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\MPPGv4.ServiceFactory\obj\Debug\net472\MPPGv4.ServiceFactory.dll
+D:\Srushty\Januity\JanuityUI PlatformCode\JanuityUIV7.1\MPPGv4.ServiceFactory\obj\Debug\net472\MPPGv4.ServiceFactory.pdb
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\MPPGv4.ServiceFactory.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\MPPGv4.ServiceFactory.pdb
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\Microsoft.Extensions.Configuration.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\Microsoft.Extensions.Configuration.Abstractions.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\Microsoft.Extensions.Configuration.Binder.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\Microsoft.Extensions.Primitives.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\System.Buffers.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\System.Memory.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\System.Numerics.Vectors.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\MPPGv4.Dtos.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\MPPGv4.Dtos.pdb
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.ServiceFactory\obj\Debug\net472\MPPGv4.ServiceFactory.csproj.AssemblyReference.cache
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.ServiceFactory\obj\Debug\net472\MPPGv4.ServiceFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.ServiceFactory\obj\Debug\net472\MPPGv4.ServiceFactory.AssemblyInfoInputs.cache
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.ServiceFactory\obj\Debug\net472\MPPGv4.ServiceFactory.AssemblyInfo.cs
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.ServiceFactory\obj\Debug\net472\MPPGv4.ServiceFactory.csproj.CoreCompileInputs.cache
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.ServiceFactory\obj\Debug\net472\MPPGv4.ServiceFactory.csproj.CopyComplete
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.ServiceFactory\obj\Debug\net472\MPPGv4.ServiceFactory.dll
+C:\Users\Srushty00\Downloads\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.ServiceFactory\obj\Debug\net472\MPPGv4.ServiceFactory.pdb
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\MPPGv4.ServiceFactory.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\MPPGv4.ServiceFactory.pdb
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\Microsoft.Extensions.Configuration.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\Microsoft.Extensions.Configuration.Abstractions.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\Microsoft.Extensions.Configuration.Binder.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\Microsoft.Extensions.Primitives.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\System.Buffers.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\System.Memory.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\System.Numerics.Vectors.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\System.Runtime.CompilerServices.Unsafe.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\MPPGv4.Dtos.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.ServiceFactory\bin\Debug\net472\MPPGv4.Dtos.pdb
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.ServiceFactory\obj\Debug\net472\MPPGv4.ServiceFactory.csproj.AssemblyReference.cache
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.ServiceFactory\obj\Debug\net472\MPPGv4.ServiceFactory.GeneratedMSBuildEditorConfig.editorconfig
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.ServiceFactory\obj\Debug\net472\MPPGv4.ServiceFactory.AssemblyInfoInputs.cache
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.ServiceFactory\obj\Debug\net472\MPPGv4.ServiceFactory.AssemblyInfo.cs
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.ServiceFactory\obj\Debug\net472\MPPGv4.ServiceFactory.csproj.CoreCompileInputs.cache
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.ServiceFactory\obj\Debug\net472\MPPGv4.ServiceFactory.csproj.CopyComplete
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.ServiceFactory\obj\Debug\net472\MPPGv4.ServiceFactory.dll
+E:\Januity\Januity_I_Modified\JanuityUIKioskV3\JanuityUIV7.1\MPPGv4.ServiceFactory\obj\Debug\net472\MPPGv4.ServiceFactory.pdb

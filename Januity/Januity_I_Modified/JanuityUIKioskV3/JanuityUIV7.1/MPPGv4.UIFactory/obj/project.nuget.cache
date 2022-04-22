@@ -1,0 +1,19 @@
+{
+  "version": 2,
+  "dgSpecHash": "OzBQMZlIytIFjNUMrESblAmRyLmOP8gLh3REaDhMxKkPaMLFvNToQ+fXm14oPzQqLjbdRoRAV30DKV773EuCVw==",
+  "success": true,
+  "projectFilePath": "E:\\Januity\\Januity_I_Modified\\JanuityUIKioskV3\\JanuityUIV7.1\\MPPGv4.UIFactory\\MPPGv4.UIFactory.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Srushty00\\.nuget\\packages\\microsoft.extensions.configuration\\2.2.0\\microsoft.extensions.configuration.2.2.0.nupkg.sha512",
+    "C:\\Users\\Srushty00\\.nuget\\packages\\microsoft.extensions.configuration.abstractions\\2.2.0\\microsoft.extensions.configuration.abstractions.2.2.0.nupkg.sha512",
+    "C:\\Users\\Srushty00\\.nuget\\packages\\microsoft.extensions.configuration.binder\\2.2.0\\microsoft.extensions.configuration.binder.2.2.0.nupkg.sha512",
+    "C:\\Users\\Srushty00\\.nuget\\packages\\microsoft.extensions.dependencyinjection\\2.1.0\\microsoft.extensions.dependencyinjection.2.1.0.nupkg.sha512",
+    "C:\\Users\\Srushty00\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\2.1.0\\microsoft.extensions.dependencyinjection.abstractions.2.1.0.nupkg.sha512",
+    "C:\\Users\\Srushty00\\.nuget\\packages\\microsoft.extensions.primitives\\2.2.0\\microsoft.extensions.primitives.2.2.0.nupkg.sha512",
+    "C:\\Users\\Srushty00\\.nuget\\packages\\system.buffers\\4.4.0\\system.buffers.4.4.0.nupkg.sha512",
+    "C:\\Users\\Srushty00\\.nuget\\packages\\system.memory\\4.5.1\\system.memory.4.5.1.nupkg.sha512",
+    "C:\\Users\\Srushty00\\.nuget\\packages\\system.numerics.vectors\\4.4.0\\system.numerics.vectors.4.4.0.nupkg.sha512",
+    "C:\\Users\\Srushty00\\.nuget\\packages\\system.runtime.compilerservices.unsafe\\4.5.1\\system.runtime.compilerservices.unsafe.4.5.1.nupkg.sha512"
+  ],
+  "logs": []
+}

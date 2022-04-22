@@ -1,0 +1,12 @@
+D:\Srushty\Januity\PaymentMagensa\MPPGv4-masterV2\MPPGv4-master\Samples\MPPG_DotNetCore\MPPGv4DemoApps\MPPGv4.ServiceFactory\bin\Debug\netcoreapp2.2\MPPGv4.ServiceFactory.deps.json
+D:\Srushty\Januity\PaymentMagensa\MPPGv4-masterV2\MPPGv4-master\Samples\MPPG_DotNetCore\MPPGv4DemoApps\MPPGv4.ServiceFactory\bin\Debug\netcoreapp2.2\MPPGv4.ServiceFactory.dll
+D:\Srushty\Januity\PaymentMagensa\MPPGv4-masterV2\MPPGv4-master\Samples\MPPG_DotNetCore\MPPGv4DemoApps\MPPGv4.ServiceFactory\bin\Debug\netcoreapp2.2\MPPGv4.ServiceFactory.pdb
+D:\Srushty\Januity\PaymentMagensa\MPPGv4-masterV2\MPPGv4-master\Samples\MPPG_DotNetCore\MPPGv4DemoApps\MPPGv4.ServiceFactory\bin\Debug\netcoreapp2.2\MPPGv4.Dtos.dll
+D:\Srushty\Januity\PaymentMagensa\MPPGv4-masterV2\MPPGv4-master\Samples\MPPG_DotNetCore\MPPGv4DemoApps\MPPGv4.ServiceFactory\bin\Debug\netcoreapp2.2\MPPGv4.Dtos.pdb
+D:\Srushty\Januity\PaymentMagensa\MPPGv4-masterV2\MPPGv4-master\Samples\MPPG_DotNetCore\MPPGv4DemoApps\MPPGv4.ServiceFactory\obj\Debug\netcoreapp2.2\MPPGv4.ServiceFactory.csprojAssemblyReference.cache
+D:\Srushty\Januity\PaymentMagensa\MPPGv4-masterV2\MPPGv4-master\Samples\MPPG_DotNetCore\MPPGv4DemoApps\MPPGv4.ServiceFactory\obj\Debug\netcoreapp2.2\MPPGv4.ServiceFactory.AssemblyInfoInputs.cache
+D:\Srushty\Januity\PaymentMagensa\MPPGv4-masterV2\MPPGv4-master\Samples\MPPG_DotNetCore\MPPGv4DemoApps\MPPGv4.ServiceFactory\obj\Debug\netcoreapp2.2\MPPGv4.ServiceFactory.AssemblyInfo.cs
+D:\Srushty\Januity\PaymentMagensa\MPPGv4-masterV2\MPPGv4-master\Samples\MPPG_DotNetCore\MPPGv4DemoApps\MPPGv4.ServiceFactory\obj\Debug\netcoreapp2.2\MPPGv4.ServiceFactory.csproj.CoreCompileInputs.cache
+D:\Srushty\Januity\PaymentMagensa\MPPGv4-masterV2\MPPGv4-master\Samples\MPPG_DotNetCore\MPPGv4DemoApps\MPPGv4.ServiceFactory\obj\Debug\netcoreapp2.2\MPPGv4.ServiceFactory.csproj.CopyComplete
+D:\Srushty\Januity\PaymentMagensa\MPPGv4-masterV2\MPPGv4-master\Samples\MPPG_DotNetCore\MPPGv4DemoApps\MPPGv4.ServiceFactory\obj\Debug\netcoreapp2.2\MPPGv4.ServiceFactory.dll
+D:\Srushty\Januity\PaymentMagensa\MPPGv4-masterV2\MPPGv4-master\Samples\MPPG_DotNetCore\MPPGv4DemoApps\MPPGv4.ServiceFactory\obj\Debug\netcoreapp2.2\MPPGv4.ServiceFactory.pdb
